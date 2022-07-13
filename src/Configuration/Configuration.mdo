@@ -41,5 +41,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <httpServices>HTTPService.screen</httpServices>
+  <httpServices>HTTPService.ВходящиеДанные</httpServices>
 </mdclass:Configuration>
